@@ -41,3 +41,6 @@ void main(){
     getch();
 }
 ```
+
+## Exemplo de Fluxograma
+![Fluxograma](./atendimento.png)
